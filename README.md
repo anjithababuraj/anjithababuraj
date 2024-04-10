@@ -1,5 +1,5 @@
 Hi there, I'm Anjitha Baburaj!
-I'm a data science intern at Luminar Technolab. 
+I'm a data science intern. 
 I have a passion for extracting insights from data and using them to drive decision-making.
 
 Skills
